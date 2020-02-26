@@ -1,0 +1,47 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "description": "inventory-schema",
+    "properties": {
+        "amount": {
+            "description": "the currently harvested amount",
+            "type": "double",
+            "xDisplay": "Menge",
+            "xOrder": 2
+        },
+        "date": {
+            "description": "the date when this was harvested",
+            "type": "date",
+            "xDisplay": "Datum"
+        },
+        "product": {
+            "description": "The name of the inventory item",
+            "type": "string",
+            "xDisplay": "Name",
+            "xOrder": 1,
+            "xRef": "products",
+            "xType": "singleSelect"
+        },
+        "uid": {
+            "description": "A unique ID for this item",
+            "type": "string",
+            "xDisplay": "UID",
+            "xOrder": 4,
+            "xRestrictions": "read-only"
+        },
+        "unit": {
+            "description": "The unit in which was harvested",
+            "type": "string",
+            "xDisplay": "Unit",
+            "xOrder": 4
+        },
+        "user": {
+            "description": "the user who made the harvest",
+            "type": "string",
+            "xDisplay": "User"
+        }
+    },
+    "required": [],
+    "title": "inventorySchema",
+    "type": "object",
+    "xUidPrefix": "inventory-entry"
+}

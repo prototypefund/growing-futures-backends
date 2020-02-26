@@ -1,0 +1,34 @@
+[
+    {
+        "schemaName": "products",
+        "schemaUrl": "productSchema"
+    },
+    {
+        "schemaName": "users",
+        "schemaUrl": "userSchema"
+    },
+    {
+        "schemaName": "shareTypes",
+        "schemaUrl": "shareTypeSchema"
+    },
+    {
+        "schemaName": "depots",
+        "schemaUrl": "depotSchema"
+    },
+    {
+        "schemaName": "categories",
+        "schemaUrl": "categoriesSchema"
+    },
+    {
+        "schemaName": "deliveries",
+        "schemaUrl": "deliverySchema"
+    },
+    {
+        "schemaName": "inventory",
+        "schemaUrl": "inventorySchema"
+    },
+    {
+        "schemaName": "poll",
+        "schemaUrl": "pollSchema"
+    }
+]

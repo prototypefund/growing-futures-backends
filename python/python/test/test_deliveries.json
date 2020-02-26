@@ -1,0 +1,940 @@
+[
+    {
+        "date": "2020-01-17T10:52:00.000Z",
+        "name": "SoLawi",
+        "products": [
+            {
+                "buffer": 12,
+                "done": false,
+                "planned": {
+                    "shareType-3539118a-a505-4a0b-b691-5758813ea4a6": 0.8,
+                    "shareType0001": 0.8,
+                    "shareType0002": 0.4,
+                    "total": 15.2
+                },
+                "uid": "product0016",
+                "unit": "w"
+            },
+            {
+                "buffer": 0,
+                "done": false,
+                "planned": {
+                    "shareType-3539118a-a505-4a0b-b691-5758813ea4a6": 1,
+                    "shareType0001": 2,
+                    "shareType0002": 1,
+                    "total": 6
+                },
+                "uid": "product0020",
+                "unit": "p"
+            },
+            {
+                "buffer": 0,
+                "done": false,
+                "planned": {
+                    "shareType-3539118a-a505-4a0b-b691-5758813ea4a6": 8,
+                    "shareType0001": 4,
+                    "shareType0002": 3,
+                    "total": 26
+                },
+                "uid": "product0045",
+                "unit": "p"
+            }
+        ],
+        "status": "ready",
+        "uid": "delivery-f2326934-4727-4714-96b2-16f13f29b475",
+        "users": [
+            {
+                "delivery": [
+                    {
+                        "amount": 0.8,
+                        "name": "Grünkohl",
+                        "note": "",
+                        "uid": "product0016",
+                        "unit": "w"
+                    },
+                    {
+                        "amount": 2,
+                        "name": "Paprika",
+                        "note": "",
+                        "uid": "product0020",
+                        "unit": "p"
+                    },
+                    {
+                        "amount": 4,
+                        "name": "Weißer Rettich",
+                        "note": "",
+                        "uid": "product0045",
+                        "unit": "p"
+                    }
+                ],
+                "depot": "depot-4825b13f-fe45-490c-aba3-3304e02ffa20",
+                "name": "Alex Awesome",
+                "shareType": "shareType0001",
+                "uid": "user0002",
+                "username": "aa"
+            },
+            {
+                "delivery": [
+                    {
+                        "amount": 0.8,
+                        "name": "Grünkohl",
+                        "note": "",
+                        "uid": "product0016",
+                        "unit": "w"
+                    },
+                    {
+                        "amount": 1,
+                        "name": "Paprika",
+                        "note": "",
+                        "uid": "product0020",
+                        "unit": "p"
+                    },
+                    {
+                        "amount": 8,
+                        "name": "Weißer Rettich",
+                        "note": "",
+                        "uid": "product0045",
+                        "unit": "p"
+                    }
+                ],
+                "depot": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96",
+                "name": "John Doe",
+                "shareType": "shareType-3539118a-a505-4a0b-b691-5758813ea4a6",
+                "uid": "user0001",
+                "username": "johndoe"
+            },
+            {
+                "delivery": [
+                    {
+                        "amount": 0.8,
+                        "name": "Grünkohl",
+                        "note": "",
+                        "uid": "product0016",
+                        "unit": "w"
+                    },
+                    {
+                        "amount": 2,
+                        "name": "Paprika",
+                        "note": "",
+                        "uid": "product0020",
+                        "unit": "p"
+                    },
+                    {
+                        "amount": 4,
+                        "name": "Weißer Rettich",
+                        "note": "",
+                        "uid": "product0045",
+                        "unit": "p"
+                    }
+                ],
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Udo Oinki",
+                "shareType": "shareType0001",
+                "uid": "user0003",
+                "username": "jens"
+            },
+            {
+                "delivery": [
+                    {
+                        "amount": 0.4,
+                        "name": "Grünkohl",
+                        "note": "",
+                        "uid": "product0016",
+                        "unit": "w"
+                    },
+                    {
+                        "amount": 1,
+                        "name": "Paprika",
+                        "note": "",
+                        "uid": "product0020",
+                        "unit": "p"
+                    },
+                    {
+                        "amount": 3,
+                        "name": "Weißer Rettich",
+                        "note": "",
+                        "uid": "product0045",
+                        "unit": "p"
+                    }
+                ],
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Da Boris",
+                "shareType": "shareType0002",
+                "uid": "user0004",
+                "username": "boris"
+            }
+        ]
+    },
+    {
+        "date": "2020-01-15T15:16:09.661Z",
+        "name": "test",
+        "products": [],
+        "status": "archived",
+        "uid": "delivery-8fc38cac-acd2-4bd9-9456-e91a7a35c457",
+        "users": [
+            {
+                "depot": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96",
+                "name": "Alex Awesome",
+                "shareType": "shareType-3539118a-a505-4a0b-b691-5758813ea4a6",
+                "uid": "user0002",
+                "username": "alex.awesome"
+            },
+            {
+                "depot": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96",
+                "name": "John Doe",
+                "shareType": "shareType-3539118a-a505-4a0b-b691-5758813ea4a6",
+                "uid": "user0001",
+                "username": "johndoe"
+            },
+            {
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Udo Oinki",
+                "shareType": "shareType0001",
+                "uid": "user0003",
+                "username": "jens"
+            },
+            {
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Da Boris",
+                "shareType": "shareType0002",
+                "uid": "user0004",
+                "username": "boris"
+            },
+            {
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Alex Awesome",
+                "shareType": "shareType0002",
+                "uid": "user-3292fd6f-e6e5-4db6-a45c-d0e61525a23d",
+                "username": "alex.awesome.1"
+            }
+        ]
+    },
+    {
+        "date": "2020-01-15T16:13:26.740Z",
+        "name": "test",
+        "products": [
+            {
+                "buffer": 0,
+                "done": false,
+                "planned": {
+                    "shareType-3539118a-a505-4a0b-b691-5758813ea4a6": 5,
+                    "shareType0001": 5,
+                    "shareType0002": 4,
+                    "total": 23
+                },
+                "uid": "product0016",
+                "unit": "p"
+            }
+        ],
+        "status": "ready",
+        "uid": "delivery-e5ab52be-b428-4d62-8800-aab4250fdf28",
+        "users": [
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "p"
+                        }
+                    ],
+                    "date": "2020-01-15T16:13:26.740Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Krummennaab",
+                        "uid": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96"
+                    },
+                    "name": "test"
+                },
+                "depot": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96",
+                "name": "Alex Awesome",
+                "shareType": "shareType-3539118a-a505-4a0b-b691-5758813ea4a6",
+                "uid": "user0002",
+                "username": "alex.awesome"
+            },
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "p"
+                        }
+                    ],
+                    "date": "2020-01-15T16:13:26.740Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Krummennaab",
+                        "uid": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96"
+                    },
+                    "name": "test"
+                },
+                "depot": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96",
+                "name": "John Doe",
+                "shareType": "shareType-3539118a-a505-4a0b-b691-5758813ea4a6",
+                "uid": "user0001",
+                "username": "johndoe"
+            },
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "p"
+                        }
+                    ],
+                    "date": "2020-01-15T16:13:26.740Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Weiden",
+                        "uid": "depot-68410d19-ddde-487c-b201-07547bb49b8a"
+                    },
+                    "name": "test"
+                },
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Udo Oinki",
+                "shareType": "shareType0001",
+                "uid": "user0003",
+                "username": "jens"
+            },
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 4,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "p"
+                        }
+                    ],
+                    "date": "2020-01-15T16:13:26.740Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Weiden",
+                        "uid": "depot-68410d19-ddde-487c-b201-07547bb49b8a"
+                    },
+                    "name": "test"
+                },
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Da Boris",
+                "shareType": "shareType0002",
+                "uid": "user0004",
+                "username": "boris"
+            },
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 4,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "p"
+                        }
+                    ],
+                    "date": "2020-01-15T16:13:26.740Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Weiden",
+                        "uid": "depot-68410d19-ddde-487c-b201-07547bb49b8a"
+                    },
+                    "name": "test"
+                },
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Alex Awesome",
+                "shareType": "shareType0002",
+                "uid": "user-3292fd6f-e6e5-4db6-a45c-d0e61525a23d",
+                "username": "alex.awesome.1"
+            }
+        ]
+    },
+    {
+        "date": "2020-02-04T11:38:59.612Z",
+        "name": "Lieferung 17",
+        "products": [
+            {
+                "buffer": 0,
+                "done": false,
+                "planned": {
+                    "shareType-3539118a-a505-4a0b-b691-5758813ea4a6": 2,
+                    "shareType0001": 3,
+                    "shareType0002": 0,
+                    "total": 7
+                },
+                "uid": "product0006",
+                "unit": "p"
+            },
+            {
+                "buffer": 0,
+                "done": false,
+                "planned": {
+                    "shareType-3539118a-a505-4a0b-b691-5758813ea4a6": 0.5,
+                    "shareType0001": 0.5,
+                    "shareType0002": 0.5,
+                    "total": 2.5
+                },
+                "uid": "product0016",
+                "unit": "w"
+            },
+            {
+                "buffer": 0,
+                "done": false,
+                "planned": {
+                    "shareType-3539118a-a505-4a0b-b691-5758813ea4a6": 0.5,
+                    "shareType0001": 0.3,
+                    "shareType0002": 0.5,
+                    "total": 2.3
+                },
+                "uid": "product0067",
+                "unit": "w"
+            },
+            {
+                "buffer": 0,
+                "done": false,
+                "planned": {
+                    "shareType-3539118a-a505-4a0b-b691-5758813ea4a6": 2,
+                    "shareType0001": 1,
+                    "shareType0002": 3,
+                    "total": 11
+                },
+                "uid": "product0046",
+                "unit": "p"
+            }
+        ],
+        "status": "ready",
+        "uid": "delivery-6d3c832e-422e-4bab-8284-afa3bc800810",
+        "users": [
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 2,
+                            "name": "Feldsalat",
+                            "note": "",
+                            "uid": "product0006",
+                            "unit": "p"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "w"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Markerbsen",
+                            "note": "",
+                            "uid": "product0067",
+                            "unit": "w"
+                        }
+                    ],
+                    "date": "2020-02-04T11:38:59.612Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Krummennaab",
+                        "uid": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96"
+                    },
+                    "name": "Lieferung 17"
+                },
+                "depot": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96",
+                "name": "Alex Awesome",
+                "shareType": "shareType-3539118a-a505-4a0b-b691-5758813ea4a6",
+                "uid": "user0002",
+                "username": "alex.awesome"
+            },
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 2,
+                            "name": "Feldsalat",
+                            "note": "",
+                            "uid": "product0006",
+                            "unit": "p"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "w"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Markerbsen",
+                            "note": "",
+                            "uid": "product0067",
+                            "unit": "w"
+                        }
+                    ],
+                    "date": "2020-02-04T11:38:59.612Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Krummennaab",
+                        "uid": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96"
+                    },
+                    "name": "Lieferung 17"
+                },
+                "depot": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96",
+                "name": "John Doe",
+                "shareType": "shareType-3539118a-a505-4a0b-b691-5758813ea4a6",
+                "uid": "user0001",
+                "username": "johndoe"
+            },
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 3,
+                            "name": "Feldsalat",
+                            "note": "",
+                            "uid": "product0006",
+                            "unit": "p"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "w"
+                        },
+                        {
+                            "amount": 0.3,
+                            "name": "Markerbsen",
+                            "note": "",
+                            "uid": "product0067",
+                            "unit": "w"
+                        }
+                    ],
+                    "date": "2020-02-04T11:38:59.612Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Weiden",
+                        "uid": "depot-68410d19-ddde-487c-b201-07547bb49b8a"
+                    },
+                    "name": "Lieferung 17"
+                },
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Udo Oinki",
+                "shareType": "shareType0001",
+                "uid": "user0003",
+                "username": "jens"
+            },
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 0,
+                            "name": "Feldsalat",
+                            "note": "",
+                            "uid": "product0006",
+                            "unit": "p"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "w"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Markerbsen",
+                            "note": "",
+                            "uid": "product0067",
+                            "unit": "w"
+                        }
+                    ],
+                    "date": "2020-02-04T11:38:59.612Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Weiden",
+                        "uid": "depot-68410d19-ddde-487c-b201-07547bb49b8a"
+                    },
+                    "name": "Lieferung 17"
+                },
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Da Boris",
+                "shareType": "shareType0002",
+                "uid": "user0004",
+                "username": "boris"
+            },
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 0,
+                            "name": "Feldsalat",
+                            "note": "",
+                            "uid": "product0006",
+                            "unit": "p"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "w"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Markerbsen",
+                            "note": "",
+                            "uid": "product0067",
+                            "unit": "w"
+                        }
+                    ],
+                    "date": "2020-02-04T11:38:59.612Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Weiden",
+                        "uid": "depot-68410d19-ddde-487c-b201-07547bb49b8a"
+                    },
+                    "name": "Lieferung 17"
+                },
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Alex Awesome",
+                "shareType": "shareType0002",
+                "uid": "user-3292fd6f-e6e5-4db6-a45c-d0e61525a23d",
+                "username": "alex.awesome.1"
+            }
+        ]
+    },
+    {
+        "date": "2020-02-08T11:38:59.612Z",
+        "name": "Lieferung 18",
+        "products": [
+            {
+                "buffer": 0,
+                "done": false,
+                "planned": {
+                    "shareType-3539118a-a505-4a0b-b691-5758813ea4a6": 2,
+                    "shareType0001": 3,
+                    "shareType0002": 0,
+                    "total": 7
+                },
+                "uid": "product0006",
+                "unit": "p"
+            },
+            {
+                "buffer": 0,
+                "done": false,
+                "planned": {
+                    "shareType-3539118a-a505-4a0b-b691-5758813ea4a6": 0.5,
+                    "shareType0001": 0.5,
+                    "shareType0002": 0.5,
+                    "total": 2.5
+                },
+                "uid": "product0016",
+                "unit": "w"
+            },
+            {
+                "buffer": 0,
+                "done": false,
+                "planned": {
+                    "shareType-3539118a-a505-4a0b-b691-5758813ea4a6": 0.5,
+                    "shareType0001": 0.3,
+                    "shareType0002": 0.5,
+                    "total": 2.3
+                },
+                "uid": "product0067",
+                "unit": "w"
+            },
+            {
+                "buffer": 0,
+                "done": false,
+                "planned": {
+                    "shareType-3539118a-a505-4a0b-b691-5758813ea4a6": 2,
+                    "shareType0001": 1,
+                    "shareType0002": 3,
+                    "total": 11
+                },
+                "uid": "product0046",
+                "unit": "p"
+            }
+        ],
+        "status": "ready",
+        "uid": "delivery-6d3c832e-422e-4bab-8284-afa3bc800810",
+        "users": [
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 2,
+                            "name": "Feldsalat",
+                            "note": "",
+                            "uid": "product0006",
+                            "unit": "p"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "w"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Markerbsen",
+                            "note": "",
+                            "uid": "product0067",
+                            "unit": "w"
+                        }
+                    ],
+                    "date": "2020-02-04T11:38:59.612Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Krummennaab",
+                        "uid": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96"
+                    },
+                    "name": "Lieferung 18"
+                },
+                "depot": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96",
+                "name": "Alex Awesome",
+                "shareType": "shareType-3539118a-a505-4a0b-b691-5758813ea4a6",
+                "uid": "user0002",
+                "username": "alex.awesome"
+            },
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 2,
+                            "name": "Feldsalat",
+                            "note": "",
+                            "uid": "product0006",
+                            "unit": "p"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "w"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Markerbsen",
+                            "note": "",
+                            "uid": "product0067",
+                            "unit": "w"
+                        }
+                    ],
+                    "date": "2020-02-04T11:38:59.612Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Krummennaab",
+                        "uid": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96"
+                    },
+                    "name": "Lieferung 18"
+                },
+                "depot": "depot-703bf6ca-e81c-48bb-b4fb-65f15e3f0f96",
+                "name": "John Doe",
+                "shareType": "shareType-3539118a-a505-4a0b-b691-5758813ea4a6",
+                "uid": "user0001",
+                "username": "johndoe"
+            },
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 3,
+                            "name": "Feldsalat",
+                            "note": "",
+                            "uid": "product0006",
+                            "unit": "p"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "w"
+                        },
+                        {
+                            "amount": 0.3,
+                            "name": "Markerbsen",
+                            "note": "",
+                            "uid": "product0067",
+                            "unit": "w"
+                        }
+                    ],
+                    "date": "2020-02-04T11:38:59.612Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Weiden",
+                        "uid": "depot-68410d19-ddde-487c-b201-07547bb49b8a"
+                    },
+                    "name": "Lieferung 18"
+                },
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Udo Oinki",
+                "shareType": "shareType0001",
+                "uid": "user0003",
+                "username": "jens"
+            },
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 0,
+                            "name": "Feldsalat",
+                            "note": "",
+                            "uid": "product0006",
+                            "unit": "p"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "w"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Markerbsen",
+                            "note": "",
+                            "uid": "product0067",
+                            "unit": "w"
+                        }
+                    ],
+                    "date": "2020-02-04T11:38:59.612Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Weiden",
+                        "uid": "depot-68410d19-ddde-487c-b201-07547bb49b8a"
+                    },
+                    "name": "Lieferung 18"
+                },
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Da Boris",
+                "shareType": "shareType0002",
+                "uid": "user0004",
+                "username": "boris"
+            },
+            {
+                "delivery": {
+                    "contents": [
+                        {
+                            "amount": 0,
+                            "name": "Feldsalat",
+                            "note": "",
+                            "uid": "product0006",
+                            "unit": "p"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Grünkohl",
+                            "note": "",
+                            "uid": "product0016",
+                            "unit": "w"
+                        },
+                        {
+                            "amount": 0.5,
+                            "name": "Markerbsen",
+                            "note": "",
+                            "uid": "product0067",
+                            "unit": "w"
+                        }
+                    ],
+                    "date": "2020-02-04T11:38:59.612Z",
+                    "depot": {
+                        "address": {
+                            "Stadt": "Weiden",
+                            "country": "Bayern",
+                            "street": "Rehbühlstraße 134",
+                            "zip": "92637"
+                        },
+                        "name": "Weiden",
+                        "uid": "depot-68410d19-ddde-487c-b201-07547bb49b8a"
+                    },
+                    "name": "Lieferung 18"
+                },
+                "depot": "depot-68410d19-ddde-487c-b201-07547bb49b8a",
+                "name": "Alex Awesome",
+                "shareType": "shareType0002",
+                "uid": "user-3292fd6f-e6e5-4db6-a45c-d0e61525a23d",
+                "username": "alex.awesome.1"
+            }
+        ]
+    }
+]
